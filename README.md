@@ -9,3 +9,12 @@ Instalar los paquetes para que funcione el proyecto.
 ```
 npm install
 ```
+
+### Ayuda
+
+```
+node app help
+```
+
+Para conocer los comandos disponibles.
+
